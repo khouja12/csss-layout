@@ -1,0 +1,140 @@
+*
+
+.logo
+{width: 268px;
+}
+
+.logo1
+{margin: 0 auto; 
+    display: flex ;
+  justify-content: center;  }
+    
+.title
+{color:#00b39b;
+text-align: center;
+margin: auto;}
+
+
+nav
+{display: flex;
+margin: 1rem;
+justify-content:space-between; margin: 2% 10%;}
+
+.grey{color: grey;}
+.ul{display: flex;
+}
+
+li{
+    margin: 1rem;
+list-style: none; 
+}
+
+    .p1
+    {justify-content: center;
+    width: 80%;
+font-weight: 500;
+font-size: 16px;
+
+}
+
+    .p2
+    {justify-content: center;
+    width: 80%;
+    font-size: 16px;
+}
+    
+    .aboutus{color: #00b39b;}
+a{text-decoration: none;}
+
+.p{display: flex;
+width: 80%;
+margin: 2% 10%;}
+
+#section1{
+    display: flex;justify-content: space-between;
+    padding: 3%;
+}
+
+.s1{
+    background-color: #00b39b;
+    color:#fff;
+ height: 300px; 
+border-radius:10px ;
+padding: 3%;
+ 
+}
+
+.s2{
+        background-color: #3d83df;
+        color: #fff;
+        border-radius:10px ;
+        padding: 3%;     
+}
+.s3{
+    background-color: #1b2734;
+    color: #fff;
+    border-radius:10px ;
+    padding: 3%;
+}
+.txt{
+    text-align: center;
+}
+.title1{
+    color: #00b39b;
+    padding: 20px;
+width:30%;
+margin-left: 32%;
+}
+.ptitle{
+color: #747474;
+font-weight: 400;
+width: 30%;
+margin-left: 32%;
+}
+.country{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;  
+    margin: 2% 10%;
+}
+.countrys div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 4%;
+}
+.countrys div p {
+    color:red;
+}
+.country img{
+    border-top-left-radius: 2%;
+border-top-right-radius: 2% ;
+}
+.pb{ 
+    color:gray;
+}
+#B{ 
+    color: #fff;
+background-color:  #3d83df;
+padding: 2%;
+border-radius: 5px;
+margin-bottom: 20px;
+}
+
+.country :hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    cursor: pointer;
+}
+.footer{
+    margin-left: 35%;
+    font-size: x-large;
+color: #333;
+font-family: Work Sans,Arial,sans-serif;
+font-weight: 300
+}
+.B2{
+    background-color: #3d83df;
+    color: #fff;
+    margin-left: 40%;
+    
+}
